@@ -1,0 +1,8 @@
+# GitHub Pages (Jekyll) settings for https://harkansky.github.io/apps/
+title: Apps by Grégoire Wartner
+description: Support and privacy pages for my apps.
+permalink: pretty
+theme: minima
+exclude:
+  - README.md
+  - _app-template
