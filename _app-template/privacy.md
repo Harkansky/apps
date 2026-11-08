@@ -9,7 +9,34 @@ APP_NAME is made by Grégoire Wartner ("I"). This policy explains what happens t
 
 ## What the app collects
 
+<!-- no-ads -->
 Nothing. The app has no account of its own, no analytics, no advertising and no tracking, and I run no server: your data is never sent to me. The app works offline.
+<!-- /no-ads -->
+<!-- ads -->
+The app itself sends nothing to me. It has no account of its own and no analytics, and I run no server.
+
+The app shows ads provided by Google AdMob. Ads are optional rewarded videos: one plays only when you choose to watch it, for example to continue a game. When the app loads or shows an ad, Google AdMob collects:
+
+- device and advertising identifiers (on iPhone and iPad, the advertising identifier only if you allow tracking)
+- your IP address and approximate location
+- how you interact with ads
+- diagnostic information
+
+Google uses this to show and measure ads and to prevent fraud. Ads are personalized only with your consent.
+
+The app works offline. While you are offline, no ads are loaded and nothing is sent.
+
+## Your ad choices
+
+In the European Economic Area, the UK and Switzerland, the app shows Google's consent form before it loads any ad. On iPhone and iPad, the app asks whether it may track you.
+
+You can change your choices at any time:
+
+- in the app, under Settings > Privacy settings (shown where the consent form applies)
+- on iPhone and iPad, also in your device's Settings > Privacy & Security > Tracking
+
+Google's privacy policy explains how Google handles this data: [policies.google.com/privacy](https://policies.google.com/privacy). See also how Google uses data from apps that use its services: [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
+<!-- /ads -->
 
 ## Where your data is saved
 
@@ -28,7 +55,12 @@ In-app purchases are processed entirely by Apple (App Store) or Google (Google P
 
 ## Children
 
+<!-- no-ads -->
 The app does not knowingly collect any personal information from anyone, including children.
+<!-- /no-ads -->
+<!-- ads -->
+The app is not directed at children under 13. The app itself does not knowingly collect personal information from anyone; ads are handled by Google AdMob as described above.
+<!-- /ads -->
 
 ## Changes
 

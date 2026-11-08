@@ -13,4 +13,8 @@ Something not working, or an idea? Email [arkansky@proton.me](mailto:arkansky@pr
 
 **Getting your progress back on a new or reset device:** on iPhone and iPad, restore the device from an iCloud or computer backup. On Android, restore your Google backup when setting up the phone, then reinstall the app.
 
+<!-- ads -->
+**Ads:** ads are optional. The game offers a short video ad when you want to continue a game, and you choose whether to watch it. To change your ad privacy choices, open Settings > Privacy settings in the app. On iPhone and iPad, you can also use your device's Settings > Privacy & Security > Tracking.
+
+<!-- /ads -->
 [Privacy policy](privacy/)
