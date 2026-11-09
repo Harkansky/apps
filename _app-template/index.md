@@ -3,6 +3,8 @@ layout: page
 title: APP_NAME
 ---
 
+[Version française](fr/)
+
 APP_NAME is a small offline game for iPhone and Android.
 
 ## Support

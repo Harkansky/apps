@@ -3,6 +3,8 @@ layout: page
 title: APP_NAME privacy policy
 ---
 
+[Version française](../fr/privacy/)
+
 _Last updated: DATE_
 
 APP_NAME is made by Grégoire Wartner ("I"). This policy explains what happens to your data when you use the app.

@@ -3,6 +3,9 @@ title: Apps by Grégoire Wartner
 description: Support and privacy pages for my apps.
 permalink: pretty
 theme: minima
+# Only the home page in the site header; app pages would crowd it.
+header_pages:
+  - index.md
 exclude:
   - README.md
   - _app-template
